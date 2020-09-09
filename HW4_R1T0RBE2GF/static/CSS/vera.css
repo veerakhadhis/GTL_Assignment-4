@@ -1,0 +1,40 @@
+nav{
+    text-align: center;
+    font-size: large;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+}
+
+body{
+   background-color: rgb(38, 199, 199);
+}
+
+p{
+    font-style: normal;
+    
+}
+
+h2{
+    font-style: italic;
+    text-align: center;
+}
+
+h3{
+    font-style: italic;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+
+footer{
+    background-color: blue;
+}
